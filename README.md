@@ -1,15 +1,33 @@
-# Expo Router Example
+# My React Native Job
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+`npm i -g expo-cli`
 
-## 🚀 How to use
+## 🚀 Create
 
 ```sh
 npx create-react-native-app -t with-router
 ```
 
-## 📝 Notes
+## 📝 Another Dependencies
 
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
-- [Request for Comments](https://github.com/expo/router/discussions/1)
+```sh
+npm i expo-font axios react-native-dotenv
+```
+
+## 📝 Run
+
+```sh
+npm start
+```  
+
+or  
+
+```sh
+expo-cli start --tunnel
+```  
+
+or  
+    
+```sh
+expo start --tunnel
+```
